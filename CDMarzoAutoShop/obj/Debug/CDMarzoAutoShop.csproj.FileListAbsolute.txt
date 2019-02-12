@@ -1,0 +1,9 @@
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\CDMarzoAutoShop\obj\Debug\CDMarzoAutoShop.csprojResolveAssemblyReference.cache
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\CDMarzoAutoShop\bin\CDMarzoAutoShop.dll
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\CDMarzoAutoShop\bin\CDMarzoAutoShop.pdb
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\CDMarzoAutoShop\bin\CDMarzoAutoShopLibrary.dll
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\CDMarzoAutoShop\bin\CDMarzoAutoShopLibrary.pdb
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\CDMarzoAutoShop\obj\Debug\CDMarzoAutoShop.dll
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\CDMarzoAutoShop\obj\Debug\CDMarzoAutoShop.pdb
+C:\Users\MARZO\documents\visual studio 2010\Projects\CDMarzoAutoShop\CDMarzoAutoShop\bin\CDMASType.dll
+C:\Users\MARZO\documents\visual studio 2010\Projects\CDMarzoAutoShop\CDMarzoAutoShop\bin\CDMASType.pdb

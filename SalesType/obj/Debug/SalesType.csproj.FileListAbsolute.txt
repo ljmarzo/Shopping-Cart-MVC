@@ -1,0 +1,4 @@
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\SalesType\bin\Debug\SalesType.dll
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\SalesType\bin\Debug\SalesType.pdb
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\SalesType\obj\Debug\SalesType.dll
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\SalesType\obj\Debug\SalesType.pdb

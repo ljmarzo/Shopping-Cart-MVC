@@ -1,0 +1,4 @@
+C:\Users\MARZO\documents\visual studio 2010\Projects\CDMarzoAutoShop\CDMASType\bin\Debug\CDMASType.dll
+C:\Users\MARZO\documents\visual studio 2010\Projects\CDMarzoAutoShop\CDMASType\bin\Debug\CDMASType.pdb
+C:\Users\MARZO\documents\visual studio 2010\Projects\CDMarzoAutoShop\CDMASType\obj\Debug\CDMASType.dll
+C:\Users\MARZO\documents\visual studio 2010\Projects\CDMarzoAutoShop\CDMASType\obj\Debug\CDMASType.pdb

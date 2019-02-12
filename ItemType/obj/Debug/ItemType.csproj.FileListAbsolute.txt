@@ -1,0 +1,4 @@
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\ItemType\bin\Debug\ItemType.dll
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\ItemType\bin\Debug\ItemType.pdb
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\ItemType\obj\Debug\ItemType.dll
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\ItemType\obj\Debug\ItemType.pdb

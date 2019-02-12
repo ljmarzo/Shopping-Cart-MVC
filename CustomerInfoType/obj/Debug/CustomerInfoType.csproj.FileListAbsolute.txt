@@ -1,0 +1,4 @@
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\CustomerInfoType\bin\Debug\CustomerInfoType.dll
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\CustomerInfoType\bin\Debug\CustomerInfoType.pdb
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\CustomerInfoType\obj\Debug\CustomerInfoType.dll
+C:\Users\MARZO\Documents\Visual Studio 2010\Projects\CDMarzoAutoShop\CustomerInfoType\obj\Debug\CustomerInfoType.pdb

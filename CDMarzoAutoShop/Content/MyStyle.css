@@ -1,0 +1,137 @@
+﻿body 
+{}
+    
+    /* Style the tab buttons */
+.tablink {
+    background-color: #1a8637;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 16px 16px;
+    font-size: 17px;
+    width: 33.33%;
+}
+
+/* Change background color of buttons on hover */
+.tablink:hover {
+    background-color: #a1e3bc;
+    color:#000;
+}
+
+/* Set default styles for tab content */
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 50px;
+    text-align: center;
+}
+
+
+
+#myInput {
+    width: 80%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+     padding: 1px 1px 1px 1px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+     margin-bottom: 12px;/* Add some space below the input */
+}
+
+.filterDiv {
+  float:left;
+  background-color: #a1e3bc;
+  color: #000;
+  width: 24.5%;
+  height: 500px;
+  /* line-height: 100px; */
+  text-align: center;
+  margin: 3px;
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.container {
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+ 
+  .inputType {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+inputType:invalid {
+  border: 2px dashed red;
+}
+
+
+ .button_2{
+  height:38px;
+  background:#a1e3bc;
+  border:0;
+  padding-left: 20px;
+  padding-right:20px;
+  color:#000;
+ }
+  .button_1{
+  height:38px;
+  background:#fff;
+  border:0;
+  padding-left: 20px;
+  padding-right:20px;
+  color:#1a8637;
+ }
+ 
+ required-field::before { 
+    content: "*";
+    float: right;
+    color: red;
+}
+
+
+
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+     top: 50px;
+    left: 70%;     
+   /* bottom: 100%;
+    left: 50%; */
+    margin-left: -60px;
+    
+    /* Fade in tooltip - takes 1 second to go from 0% to 100% opac: */
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+
+
+
